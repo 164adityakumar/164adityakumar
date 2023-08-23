@@ -1,4 +1,4 @@
-<p align="left">I'm Aditya Kumar pursuing ECE at NIT Jalandhar<br><br>- 🔭 I'm currently learning Full Stack Development <br>- 🤖 Would like to collaborate on Verilog & Embedded projects<br>- ⚡ In my free time I like to listen music and watch movies</p>
+<p align="left">I'm Aditya Kumar pursuing ECE at NIT Jalandhar<br><br>- 🔭 I'm currently learning Full Stack Development <br>- 🤖 Would like to collaborate on Verilog & Embedded projects<br>- ⚡ Ask me about movies and Sci Fi Novels</p>
 
 ###
 
