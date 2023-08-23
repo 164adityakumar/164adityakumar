@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="265" src="https://www.ucf.edu/wp-content/blogs.dir/16/files/2020/04/space-header-1600x550-1600x500.jpg"  />
-</div>
-
-###
-
 <h2 align="center">Hey there 👋</h2>
 
 ###
@@ -68,15 +60,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=164adityakumar.164adityakumar&left_color=darkcyan"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="141" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="136" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="176" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://profile-counter.glitch.me/164adityakumar/count.svg?"  />
 </div>
 
 ###
