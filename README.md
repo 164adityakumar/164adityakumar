@@ -1,4 +1,6 @@
-<h2 align="center">Hey there 👋</h2>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/7a/81/24/7a81240359e212d40a665222ff3d13aa.jpg"  />
+</div>
 
 ###
 
@@ -6,7 +8,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
@@ -30,7 +32,7 @@
 
 ###
 
-<h3 align="left">Web Development</h3>
+<h4 align="left">🕸️ Web Development</h4>
 
 ###
 
@@ -56,14 +58,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">🔥   My Stats :</h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="141" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="136" alt="streak graph"  />
 </div>
 
