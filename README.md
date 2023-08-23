@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/7a/81/24/7a81240359e212d40a665222ff3d13aa.jpg"  />
-</div>
-
-###
-
 <p align="left">I'm Aditya Kumar pursuing ECE at NIT Jalandhar<br><br>- 🔭 I'm currently learning Full Stack Development <br>- 🤖 Would like to collaborate on Verilog & Embedded projects<br>- ⚡ In my free time I like to listen music and watch movies</p>
 
 ###
