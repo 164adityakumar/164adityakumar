@@ -25,7 +25,7 @@
 </div>
 
 ###
-<h4 align="left">Electronics</h4>
+<h4 align="left">💻 Electronics</h4>
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" height="30" alt="javascript logo"  />
   <img width="30" />
