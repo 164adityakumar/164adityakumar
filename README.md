@@ -25,13 +25,20 @@
 </div>
 
 ###
+<h4 align="left">Electronics</h4>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" height="30" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="30" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="30" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="javascript logo"  />
+  <img width="12" />
+</div>
 
+  
 <h4 align="left">🕸️ Web Development</h4>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
