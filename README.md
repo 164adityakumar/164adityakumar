@@ -27,8 +27,6 @@
 ###
 <h4 align="left">💻 Electronics</h4>
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" height="30" alt="javascript logo"  />
-  <img width="30" />
   <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="30" alt="javascript logo"  />
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="30" alt="javascript logo"  />
