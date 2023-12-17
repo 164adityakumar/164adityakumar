@@ -1,5 +1,4 @@
-<p align="left">I'm Aditya Kumar pursuing ECE at NIT Jalandhar<br><br>- 🔭 Check out [Codex](https://codexweb.vercel.app/)
- I recently built <br>- 🤖 Would like to collaborate on Verilog & Embedded projects<br>- ⚡ Ask me about movies and Sci Fi Novels</p>
+<p align="left">I'm Aditya Kumar pursuing ECE at NIT Jalandhar<br><br>- 🔭 Check out <a href="https://codexweb.vercel.app/">Codex</a> I recently built <br>- 🤖 Would like to collaborate on Verilog & Embedded projects<br>- ⚡ Ask me about movies and Sci Fi Novels</p>
 
 ###
 
