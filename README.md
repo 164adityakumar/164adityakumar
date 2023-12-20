@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" height="30" alt="recoil logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
