@@ -61,23 +61,14 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-###
 
 <h4 align="left">🔥   My Stats :</h4>
 
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="145" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="136" alt="streak graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/164adityakumar/count.svg?"  />
-</div>
+[![](https://visitcount.itsvg.in/api?id=164adityakumar&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 ###
