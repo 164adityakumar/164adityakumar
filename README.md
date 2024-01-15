@@ -19,9 +19,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=octave" height="30" alt="octave logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  /> 
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="arduino logo"  />
 </div>
 
 ###
@@ -59,6 +63,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
 </div>
 
 
