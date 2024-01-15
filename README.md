@@ -40,7 +40,7 @@
 </div>
 
   
-<h4 align="left">Sofware Development</h4>
+<h4 align="left">Web Development</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
