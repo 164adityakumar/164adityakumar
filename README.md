@@ -1,4 +1,4 @@
-<h4>Hello! I'm Aditya Kumar, currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in web development and computer architecture, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures .
+<h4 align="justify">Hello! I'm Aditya Kumar, currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in web development and computer architecture, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures .
 </h4>
 
 ---
