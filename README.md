@@ -10,7 +10,7 @@
   
 <be>
 
--  I'm interested in collaborating on any web development or computer architecture/Embedded related projects. Let me know if you have anything in mind - I'm excited to work together!</p>
+-  I'm interested in collaborating on any Web development or computer architecture/embedded related projects. Let me know if you have anything in mind - I'm excited to work together!</p>
 -  You can reach me out at [1410adityakumar@gmail.com](mailto:1410adityakumar@gmail.com) 
 
 ---
