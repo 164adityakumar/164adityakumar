@@ -1,5 +1,18 @@
-<h4 align="justify">Hello! I'm Aditya Kumar, currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in web development and computer architecture, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures .
-</h4>
+<h2 align="center" >
+  Hello! I'm 
+  
+  [Aditya Kumar](https://adityakumar.vercel.app)
+  
+</h2>
+
+<p align="justify">
+  
+-  I'm currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in web development and computer architecture, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures.
+  
+<be>
+
+-  I'm interested in collaborating on any web development or computer architecture/Embedded related projects. Let me know if you have anything in mind - I'm excited to work together!</p>
+-  You can reach me out at [1410adityakumar@gmail.com](mailto:1410adityakumar@gmail.com) 
 
 ---
 
@@ -26,18 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
 </div>
-<h5 align="left">Electronics</h4>
-<div align="left">
-  <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/22901741/Makerchip__8_.png"  height ="35"/>
-</div>
-</div>
-<h5 align="left">Tech Stack</h5>
+  <h5 align="left">Tech Stack</h5>
 <br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
@@ -67,6 +69,18 @@
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
 </div
 <br clear="both">
+<h5 align="left">Electronics</h4>
+<div align="left">
+  <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/22901741/Makerchip__8_.png"  height ="35"/>
+</div>
+</div>
+
 
 ---
 
