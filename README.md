@@ -39,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
 </div>
   <h5 align="left">Tech Stack</h5>
-<br clear="both">
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
