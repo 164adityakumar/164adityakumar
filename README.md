@@ -87,8 +87,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=164adityakumar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" height="135" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="136" alt="streak graph"  />
-  
+  <img src="https://streak-stats.demolab.com?user=164adityakumar&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" height="135" alt="streak graph"  />
+</div>
+###
+
 [![](https://visitcount.itsvg.in/api?id=164adityakumar&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
