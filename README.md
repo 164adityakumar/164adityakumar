@@ -85,7 +85,7 @@
 <h4 align="center">STATS</h4>
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=164adityakumar&theme=prussian&hide_border=true&card_width=500" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=164adityakumar&theme=prussian&hide_border=true&card_width=500" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=164adityakumar&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true&card_width=300" height="150" alt="streak graph"  />
   
 [![](https://visitcount.itsvg.in/api?id=164adityakumar&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
