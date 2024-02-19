@@ -39,6 +39,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
   <h5 align="left">Tech Stack</h5>
 <div align="left">
