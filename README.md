@@ -16,8 +16,8 @@
 ---
 
 <div style="display: flex;">
-<h5 align="left">Language and tools</h5>
-<div align="left">
+<h5 align="center">Language and tools</h5>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
@@ -42,8 +42,8 @@
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
-  <h5 align="left">Tech Stack</h5>
-<div align="left">
+  <h5 align="center">Tech Stack</h5>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
@@ -71,8 +71,8 @@
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
 </div
 <br clear="both">
-<h5 align="left">Electronics</h4>
-<div align="left">
+<h5 align="center">Electronics</h4>
+<div align="center">
   <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
