@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="12" />
-    <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" height="35" alt="recoil logo" borderRadius="3px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" height="35" alt="recoil logo" style="border-radius:50%">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="12" />
