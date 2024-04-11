@@ -19,59 +19,42 @@
 <h5 align="center">Language and tools</h5>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=octave" height="35" alt="octave logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=vim" height="35" alt="vim logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-    <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
   <h5 align="center">Tech Stack</h5>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="12" />
-    <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" height="35" alt="recoil logo" style="border-radius:50%">
-  <img width="12" />
+  <img width="14" />
+  
+
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg" height="35" alt="recoil logo" style="border-radius:50%">
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
-  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
-</div
+   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+    <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+    <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+</div> 
 <br clear="both">
 <h5 align="center">Electronics</h4>
 <div align="center">
