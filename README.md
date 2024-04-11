@@ -21,12 +21,12 @@
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="14" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=octave" height="35" alt="octave logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
-  <img width="14" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=vim" height="35" alt="vim logo"  />
   <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
@@ -39,7 +39,7 @@
    <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="14" />
+  <img width="18" />
   
 
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
@@ -48,7 +48,7 @@
    <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
    <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
-  <img width="14" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
     <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
