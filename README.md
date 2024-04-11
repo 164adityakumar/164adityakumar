@@ -62,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
