@@ -50,6 +50,7 @@
    <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+    <img src="https://skillicons.dev/icons?i=express" height="35" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
     <img src="https://skillicons.dev/icons?i=redis" height="35" alt="redis logo"  />
   <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
