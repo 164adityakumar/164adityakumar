@@ -6,11 +6,11 @@
 
 <p align="justify">
   
--  I'm currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in web development and computer architecture, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures.
+-  I'm currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in Software development and computers, and you'll find my GitHub filled with various projects that reflect my passion for coding. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures.
   
 <be>
 
--  I'm interested in collaborating on any Web development or computer architecture/embedded related projects. Let me know if you have anything in mind - I'm excited to work together!</p>
+-  I'm interested in collaborating on any Software development or computer architecture/embedded related projects. Let me know if you have anything in mind - I'm excited to work together!</p>
 -  You can reach me out at [1410adityakumar@gmail.com](mailto:1410adityakumar@gmail.com) 
 
 ---
