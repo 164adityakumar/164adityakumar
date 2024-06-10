@@ -16,15 +16,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=octave" height="35" alt="octave logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vim" height="35" alt="vim logo"  />
-  <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
