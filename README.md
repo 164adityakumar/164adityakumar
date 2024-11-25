@@ -24,6 +24,19 @@
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
 </div>
+
+  <h5 align="center">Electronics</h4>
+<div align="center">
+  <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://gitlab.com/uploads/-/system/project/avatar/22901741/Makerchip__8_.png"  height ="35"/>
+   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/28949360?s=200&v=4"  height ="35"/>
+</div>
   <h5 align="center">Tech Stack</h5>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
@@ -47,16 +60,7 @@
         <img src="https://mohamed-nouri.gallerycdn.vsassets.io/extensions/mohamed-nouri/websocket-client/0.2.0/1623538136948/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="postman logo" style="border-radius:3" />
 </div> 
 <br clear="both">
-<h5 align="center">Electronics</h4>
-<div align="center">
-  <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/22901741/Makerchip__8_.png"  height ="35"/>
-</div>
+
 </div>
 
 
@@ -66,7 +70,7 @@
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=164adityakumar&theme=prussian&hide_border=true&card_width=500" height="150" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=164adityakumar&hide=html,css&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true&card_width=300" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=164adityakumar&hide=html,css,javascript&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_title=true&card_width=300" height="150" alt="streak graph"  />
   
 [![](https://visitcount.itsvg.in/api?id=164adityakumar&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)
 </div>
