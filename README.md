@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://community.linuxmint.com/img/screenshots/verilog.png" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/XilinxVivado_Logo.jpg/440px-XilinxVivado_Logo.jpg" height="35" alt="javascript logo"  />
+  <img src="https://arduinofactory.fr/wp-content/uploads/2024/04/2780319-40.jpg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://zhangyiant.gallerycdn.vsassets.io/extensions/zhangyiant/vscode-verilog/1.0.13/1563063877763/Microsoft.VisualStudio.Services.Icons.Default" height="35" alt="javascript logo"  />
   <img width="12" />
