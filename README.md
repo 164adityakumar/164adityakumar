@@ -6,7 +6,7 @@
 
 <p align="justify">
   
--  I'm currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in Software development and computers. From creating websites to delving into the intricacies of computer systems, I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures. I'm interested in collaborating on any Software development related projects.
+-  I'm currently pursuing my major in ECE at NIT Jalandhar. I have a keen interest in Electronics and computers. I love experimenting and learning. Feel free to explore my projects, and let's connect to share ideas or chat about coding adventures. I'm interested in collaborating on any Software development related projects.
 -  You can reach me out at [1410adityakumar@gmail.com](mailto:1410adityakumar@gmail.com) 
 
 ---
